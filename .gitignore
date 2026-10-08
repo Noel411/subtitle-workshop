@@ -1,0 +1,15 @@
+# 构建产物
+dist/
+build/
+_build/
+*.spec
+
+# 模型文件体积过大，请到 Releases 下载或首次运行自动下载
+models/
+
+# 测试与本地杂物
+__pycache__/
+*.pyc
+*.zip
+*.wav
+*.mp3
